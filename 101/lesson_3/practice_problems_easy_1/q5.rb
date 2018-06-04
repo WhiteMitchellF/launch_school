@@ -1,0 +1,1 @@
+(10..100).to_a.include?(42) ? true : false
